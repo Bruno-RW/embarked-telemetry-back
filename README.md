@@ -1,4 +1,4 @@
-# Backend - Embarked Telemetry
+# Backend - Embedded Telemetry
 
 ## Project Structure
 
